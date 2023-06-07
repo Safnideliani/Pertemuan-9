@@ -1,0 +1,19 @@
+{
+    "name": "safnideliani-uinsu/si-mvc",
+    "description": "Praktikum SI-MVC Pemrograman Berbasis Web Lanjutan 2022",
+    "type": "project",
+    "authors": [
+        {
+            "name": "safnideliani-uinsu",
+            "email": "delianisafni0@gmail.com.ac.id"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "filp/whoops": "^2.14"
+    }
+}
